@@ -1,4 +1,4 @@
-Buka project di Android Studio**
+Buka project di Android Studio
 - Jalankan Android Studio.
 - Pilih menu File → Open.
 - Arahkan ke folder project yang sudah kamu clone atau ekstrak.
