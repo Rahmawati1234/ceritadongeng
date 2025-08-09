@@ -1,3 +1,10 @@
+ Langkah Instalasi Project
+
+Clone repository 
+   ```bash
+   git clone https://github.com/Rahmawati1234/ceritadongeng.git
+Atau bisa juga gunakan tombol Code → Download ZIP pada halaman GitHub dan ekstrak file-nya.
+
 Buka project di Android Studio
 - Jalankan Android Studio.
 - Pilih menu File → Open.
